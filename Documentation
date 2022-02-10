@@ -1,0 +1,14 @@
+found image of pumpkin
+removed background of pumpkin 
+added the pumpkin image
+set the x and y variable cordinates to where i wanted them 
+used the key press function to have the pumpkin move the way with the correpsonding arrow keys
+i then decided that no halloween maze was sufficient so i created my own maze in paint 3D
+i added my maze image and then resized it because it was not even close to the right size (too big)
+i wanted to add a timer to add another aspect to the maze
+i added the text i wanted, changed the color, the size, and the location
+i used some online resources for the next part:
+  the 'frameCount' keeps track of the number of times the program has gone through, and the 60 = 1 second
+then, when the timer hit 0, i added the text i wanted it to say
+i decided i wanted it to say 'WIN' when you finish, so i kind of took the timer code and tweaked so it would work with cordinates instead of time and said if the pumpkinx and pumpkiny equal a certain thing, then you win
+after doing that, i realized that it wasn't working how i wanted it to because i used  a , instead of an &&. Once i figured it out, it worked just how i wanted to 
